@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m19yurttutar/m19yurttutar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m19yurttutar/m19yurttutar/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m19yurttutar/m19yurttutar/output/github-contribution-grid-snake.svg">
+</picture>
+
 <h1 align="center">Hi 👋, I'm Mert Yurttutar</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
@@ -16,9 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m19yurttutar&show_icons=true&locale=en" alt="m19yurttutar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m19yurttutar&" alt="m19yurttutar" /></p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m19yurttutar/m19yurttutar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m19yurttutar/m19yurttutar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m19yurttutar/m19yurttutar/output/github-contribution-grid-snake.svg">
-</picture>
